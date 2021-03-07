@@ -1,0 +1,26 @@
+body{
+    color: darkorchid;
+}
+h1{
+    color: darkslateblue;
+    font-size: 50px;
+}
+
+img:hover{
+    background-color: orange;
+}
+
+.chicken{
+    background-color: red;
+}
+.beer
+{
+    background-color: greenyellow;
+}
+.circle{
+    border-radius: 100%;
+}
+#heading{
+    color: lawngreen;
+}
+/* Comment Line in CSS */ 
