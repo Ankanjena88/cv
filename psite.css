@@ -1,0 +1,24 @@
+
+body{
+    background-color:#ffd5cd;
+    border-style:none;
+
+    }
+hr{
+    background-color:none;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height:0px;
+    width: 30%;
+}
+h1{
+    color:blueviolet;
+}
+h3{
+    color: blueviolet;
+}
+a:active{
+    color: green;
+}
